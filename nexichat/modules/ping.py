@@ -58,7 +58,7 @@ async def ping(_, message: Message):
     start = datetime.now()
     loda = await message.reply_photo(
         photo=random.choice(IMG),
-        caption="ᴘɪɴɢɪɴɢ...",
+        caption=" #_4𝚂𝚃_𝚘𝚙 💗...",
     )
     try:
         await message.delete()
