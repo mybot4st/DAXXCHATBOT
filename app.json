@@ -1,5 +1,5 @@
 {
-  "name": "nexichat",
+  "name": "4st nexichat",
   "description": "A telegram bot",
   "logo": "https://graph.org/file/0d3f394ebbf5e8488cb1d.jpg",
   "keywords": [
@@ -21,7 +21,7 @@
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
     }
   }
 }
