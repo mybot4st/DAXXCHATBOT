@@ -90,7 +90,9 @@ async def start(_, m: Message):
         await asyncio.sleep(0.2)
         await accha.edit("__ᴅιиg ᴅσиg ꨄ sтαятιиg.....__")
         await asyncio.sleep(0.2)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ sтαятιиg..__")
+        await accha.edit("👻 𝙼𝚈 𝙻𝙾𝚅𝙴 💗 :-» @ll4st_MIND_GAMERII 💘
+
+👀 𝙵𝙴𝙴𝙻 𝙼𝙴 :-» @I_M_FIGHTER 💓")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
